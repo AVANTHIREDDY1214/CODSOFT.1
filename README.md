@@ -23,8 +23,8 @@ The `.txt` files are **tab-separated**.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/movie-genre-prediction.git
-cd movie-genre-prediction
+git clone https://github.com/AVANTHIREDDY1214/CODSOFT.1
+cd codsoft.1
 ```
 
 Install dependencies:
