@@ -48,7 +48,7 @@ scikit-learn
 Run the training and evaluation script:
 
 ```bash
-python movie_genre_predictor.py
+python movie_genre_prediction.ipynb
 ```
 
 The script will:
