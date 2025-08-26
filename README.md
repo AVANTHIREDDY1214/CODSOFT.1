@@ -23,7 +23,7 @@ The `.txt` files are **tab-separated**.
 Clone the repository:
 
 ```bash
-git clone https://github.com/AVANTHIREDDY1214/CODSOFT.1
+git clone https://github.com/AVANTHIREDDY1214/CODSOFT.1.git
 cd codsoft.1
 ```
 
